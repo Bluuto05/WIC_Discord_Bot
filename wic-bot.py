@@ -28,4 +28,13 @@ async def greet(interaction: discord.Interaction):
     username = interaction.user.mention
     await interaction.response.send_message("HALLO!!! " + username)
 
+
+
+
+
+#insert play code here
+
+#insert queue code here
+
+# insert other code here
 bot.run(TOKEN)

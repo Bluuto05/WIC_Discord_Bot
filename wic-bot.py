@@ -1,3 +1,5 @@
+#made by Lucia Ulate, Reva Mahesh, Honey Patel
+
 import os
 import discord
 from discord.ext import commands
